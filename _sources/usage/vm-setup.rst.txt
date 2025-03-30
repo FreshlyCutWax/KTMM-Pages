@@ -8,9 +8,11 @@ Prerequisites
 -------------
 
 1. Install required packages.
+
         a. WSL Ubuntu::
 
-                $ sudo apt install build-essential qemu-system virt-manager bridge-utils virtiofsd zip unzip
+                sudo apt install build-essential qemu-system virt-manager \
+                bridge-utils virtiofsd zip unzip
 
 2. Download the latest Debian 12 iso::
 
