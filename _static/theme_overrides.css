@@ -1,0 +1,4 @@
+/* make sure the body uses the full viewport */
+body {
+	max-width: none;
+}
