@@ -1,4 +1,0 @@
-/* make sure the body uses the full viewport */
-body {
-	.wy-nav-content { max-width: none; }
-}
