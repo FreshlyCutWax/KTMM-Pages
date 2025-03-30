@@ -70,7 +70,7 @@ div.relations {
 
 
 div.sphinxsidebar a {
-    color: #D79921;
+    color: #444;
     text-decoration: none;
     border-bottom: 1px dotted #999;
 }
@@ -108,7 +108,7 @@ div.sphinxsidebarwrapper p.blurb {
 div.sphinxsidebar h3,
 div.sphinxsidebar h4 {
     font-family: Georgia, serif;
-    color: #ebdbb2;
+    color: #444;
     font-size: 24px;
     font-weight: normal;
     margin: 0 0 5px 0;
@@ -120,7 +120,7 @@ div.sphinxsidebar h4 {
 }
 
 div.sphinxsidebar h3 a {
-    color: #D79921;
+    color: #444;
 }
 
 div.sphinxsidebar p.logo a,
@@ -182,7 +182,7 @@ div.sphinxsidebar h3.donation {
 /* -- body styles ----------------------------------------------------------- */
 
 a {
-    color: #D79921;
+    color: #004B6B;
     text-decoration: underline;
 }
 
@@ -439,7 +439,7 @@ ul, ol {
 }
 
 pre {
-    background: #3C3836;
+    background: #EEE;
     padding: 7px 30px;
     margin: 15px 0px;
     line-height: 1.3em;
@@ -467,7 +467,7 @@ tt.xref, code.xref, a tt {
 
 a.reference {
     text-decoration: none;
-    border-bottom: 1px dotted #D79921;
+    border-bottom: 1px dotted #004B6B;
 }
 
 /* Don't put an underline on images */
@@ -483,7 +483,7 @@ a.footnote-reference {
     text-decoration: none;
     font-size: 0.7em;
     vertical-align: top;
-    border-bottom: 1px dotted #D79921;
+    border-bottom: 1px dotted #004B6B;
 }
 
 a.footnote-reference:hover {
