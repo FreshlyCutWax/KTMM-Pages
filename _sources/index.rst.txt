@@ -11,11 +11,11 @@ System Requirements and Installation
 ------------------------------------
 
 Important prerequisite information. Please read these prior to setup. These
-guides will cover what kind of environment is needed to run the module, and what
+guides will cover what kind of environment is needed to run the module and what
 packages are needed to build and install the module.
 
 .. toctree::
-        :maxdepth: 2
+        :maxdepth: 1
 
         usage/requirements
         usage/vm-setup
